@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-08-23T19:17:37.839612Z",
+      "format": null,
+      "last_modified": "2022-08-23T19:16:34.214708Z",
+      "mimetype": null,
+      "name": "Python_Intro_Crash_Course.ipynb",
+      "path": "python/Python_Intro_Crash_Course.ipynb",
+      "size": 34521,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-08-23T19:17:37.839612Z",
+  "format": "json",
+  "last_modified": "2022-08-23T19:17:37.839612Z",
+  "mimetype": null,
+  "name": "python",
+  "path": "python",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
