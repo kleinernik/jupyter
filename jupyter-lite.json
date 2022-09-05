@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.11",
+    "appVersion": "0.1.0-beta.12",
     "baseUrl": "./",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
@@ -70,13 +70,13 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.40d7ace9569529c50584.js",
+        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
         "name": "bqplot"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.be0f250473ab8848c05a.js",
+        "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
         "name": "ipycanvas"
       },
       {
