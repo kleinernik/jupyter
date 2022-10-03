@@ -2,20 +2,20 @@
   "content": [
     {
       "content": null,
-      "created": "2022-09-05T20:24:06.032346Z",
+      "created": "2022-10-03T17:47:24.461247Z",
       "format": null,
-      "last_modified": "2022-09-05T20:23:05.935293Z",
+      "last_modified": "2022-10-03T17:46:21.960382Z",
       "mimetype": null,
-      "name": "Python_Intro_Crash_Course.ipynb",
-      "path": "python/Python_Intro_Crash_Course.ipynb",
-      "size": 34521,
+      "name": "1_Python_Intro_Crash_Course.ipynb",
+      "path": "python/1_Python_Intro_Crash_Course.ipynb",
+      "size": 34525,
       "type": "notebook",
       "writable": true
     }
   ],
-  "created": "2022-09-05T20:24:06.032346Z",
+  "created": "2022-10-03T17:47:24.457247Z",
   "format": "json",
-  "last_modified": "2022-09-05T20:24:06.032346Z",
+  "last_modified": "2022-10-03T17:47:24.457247Z",
   "mimetype": null,
   "name": "python",
   "path": "python",
