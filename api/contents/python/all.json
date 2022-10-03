@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-10-03T17:47:24.461247Z",
+      "created": "2022-10-03T17:59:47.469638Z",
       "format": null,
-      "last_modified": "2022-10-03T17:46:21.960382Z",
+      "last_modified": "2022-10-03T17:58:41.141985Z",
+      "mimetype": "text/html",
+      "name": "1_Python_Intro_Crash_Course.html",
+      "path": "python/1_Python_Intro_Crash_Course.html",
+      "size": 689880,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-10-03T17:59:47.469638Z",
+      "format": null,
+      "last_modified": "2022-10-03T17:58:41.141985Z",
       "mimetype": null,
       "name": "1_Python_Intro_Crash_Course.ipynb",
       "path": "python/1_Python_Intro_Crash_Course.ipynb",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2022-10-03T17:47:24.457247Z",
+  "created": "2022-10-03T17:59:47.469638Z",
   "format": "json",
-  "last_modified": "2022-10-03T17:47:24.457247Z",
+  "last_modified": "2022-10-03T17:59:47.469638Z",
   "mimetype": null,
   "name": "python",
   "path": "python",
