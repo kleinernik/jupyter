@@ -2,7 +2,7 @@
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
-    "appVersion": "0.1.0-beta.12",
+    "appVersion": "0.1.0-rc.0",
     "baseUrl": "./",
     "defaultKernelName": "python",
     "faviconUrl": "./lab/favicon.ico",
@@ -10,7 +10,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.1bd01b57743def902f73.js",
+        "load": "static/remoteEntry.35e76720037cafa02724.js",
         "name": "@jupyter-widgets/jupyterlab-manager"
       },
       {
@@ -22,7 +22,7 @@
       },
       {
         "liteExtension": false,
-        "load": "static/remoteEntry.b75c764d727b50009261.js",
+        "load": "static/remoteEntry.f6be43672b078c208aab.js",
         "mimeExtension": "./mimeExtension",
         "name": "@jupyterlab/geojson-extension",
         "style": "./style"
@@ -30,9 +30,21 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
+        "load": "static/remoteEntry.881c4a7dc32240fa810b.js",
+        "name": "@jupyterlite/javascript-kernel-extension"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.9117113815033289c4d5.js",
         "name": "@jupyterlite/p5-kernel-extension",
         "style": "./style"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": true,
+        "load": "static/remoteEntry.9769e16943c1366c4972.js",
+        "name": "@jupyterlite/pyodide-kernel-extension"
       },
       {
         "extension": "./extension",
@@ -50,19 +62,6 @@
       },
       {
         "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
-        "name": "@jupyterlite/xeus-wren-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.8a4c97071917cf84832f.js",
-        "name": "@telamonian/theme-darcula"
-      },
-      {
-        "extension": "./extension",
         "liteExtension": false,
         "load": "static/remoteEntry.145e469029155b53b350.js",
         "name": "@timkpaine/jupyterlab_miami_nights"
@@ -70,7 +69,7 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.99c828c2ee313756f7dc.js",
+        "load": "static/remoteEntry.ede4bc602b2c1bd1a931.js",
         "name": "bqplot"
       },
       {
@@ -88,33 +87,25 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.826666d2e0fe36d6609e.js",
+        "load": "static/remoteEntry.a397b41514ddde5db0df.js",
         "name": "jupyter-leaflet"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.6b5d328600b8f618f724.js",
+        "load": "static/remoteEntry.2245c790a510bf1865ea.js",
         "name": "jupyter-matplotlib"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
-        "name": "jupyter-wren-syntax",
-        "style": "./style"
+        "load": "static/remoteEntry.6a37df5d4590b29196a3.js",
+        "name": "jupyterlab-night"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.249e02ea9427f8cca2ad.js",
+        "load": "static/remoteEntry.14a31ea2a1e94779c174.js",
         "mimeExtension": "./mimeExtension",
         "name": "jupyterlab-plotly"
       },
@@ -410,6 +401,13 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
+    "litePluginSettings": {
+      "@jupyterlite/pyodide-kernel-extension:kernel": {
+        "pipliteUrls": [
+          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=dada95d1039a199bb4503c6652605f7815ea056b19f3c08a6e78a0c5739f19d4"
+        ]
+      }
+    },
     "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
   },
   "jupyter-lite-schema-version": 0
