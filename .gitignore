@@ -116,3 +116,5 @@ dmypy.json
 _output
 
 content/.env
+content/python/mensa.ipynb
+content/python/requests.ipynb
